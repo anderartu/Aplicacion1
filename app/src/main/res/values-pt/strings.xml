@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacao</string>
+    <string name="apellido_usuario">Configuracao</string>
+    <string name="btn_guardar">Salvar</string>
+    <string name="escriba_apellido">Escriba seu apelidop</string>
+    <string name="escriba_nombre">Escriba seu nome</string>
+    <string name="nombre_usuario">Nome</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="nombre_usuario">Nombre</string>
+    <string name="apellido_usuario">Apellido</string>
+    <string name="escriba_nombre">Escriba su Nombre</string>
+    <string name="escriba_apellido">Escriba su apellido</string>
+    <string name="btn_guardar">GUARDAR</string>
+</resources>
